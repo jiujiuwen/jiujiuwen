@@ -1,6 +1,11 @@
-# resume
+# resume-sample
 
 > A Vue.js project
+
+## Usage
+ rename src/data/resume-sample.js to resume.js
+
+
 
 ## Build Setup
 
